@@ -35,6 +35,8 @@ void setup() {
   Serial.println("Nano old bootloader");
   Serial.println("Made for Rotary Encoder Board");
   Serial.println("LDR on GND -- LDR on A1 -- Resistor 470R on a! and 3V3");
+  Serial.println("Github: https://github.com/RalfCyprus/MyEncoderLight");
+  Serial.println("Youtube: https://youtu.be/Z2UOV_o1JAo");
   // Set the trigger to be either a HIGH or LOW pin (Default: HIGH)
   // Note this sets all three pins to use the same state.
   rotary.setTrigger(HIGH);
