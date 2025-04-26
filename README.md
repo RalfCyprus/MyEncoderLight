@@ -42,6 +42,6 @@ An LDR is used to detect ambient brightness:
 - **Long press** → Timed brightness mode  
 - **Yellow LED** → Indicates saved brightness value (only when light is off)
 
-## 📄 Sketch
+## 📄Youtube: https://youtu.be/Z2UOV_o1JAo
 
 
